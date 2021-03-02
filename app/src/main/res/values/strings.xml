@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="adopt_me">Adopt Me</string>
+    <string name="age">Age: %1$s</string>
+    <string name="name">Name: %1$s</string>
+    <string name="breed">Breed: %1$s</string>
+</resources>
